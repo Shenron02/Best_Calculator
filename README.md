@@ -1,6 +1,4 @@
-# Symbolic Inverse Trigonometric Calculator
-
-A tkinter GUI calculator for computing symbolic inverse trig values of arcsin, arccos, and arctan.
+# Symbolic, Inverse, Graphical, Mathematical, and Analytical(SIGMA) Calculator
 
 ## Usage
 
